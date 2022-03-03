@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismota1999
-- 👀 I’m interested in JAVA 
-- 🌱 I’m currently learning JAVA and Spring Framework
+- 👀 I’m interested in JAVA and Kotlin
+- 🌱 I’m currently learning JAVA, Kotlin, RxJava
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - LinkedIn- https://www.linkedin.com/in/iuri-mota-1ab7b9212/
